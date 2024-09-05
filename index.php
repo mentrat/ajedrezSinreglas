@@ -9,7 +9,7 @@
         integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg=="
         crossorigin="anonymous" referrerpolicy="no-referrer" />
     <script src="js.js" defer></script>
-    <link rel="stylesheet" href="style2.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
